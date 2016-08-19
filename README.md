@@ -1,7 +1,7 @@
 # dan-web
 personal web repos
 
-This reposittoy is free of use
+This repository is free of use
 and must follow the license according
 to what ever stated as open source
 and must give credits to me, and to those 
